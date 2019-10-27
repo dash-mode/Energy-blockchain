@@ -211,7 +211,7 @@ import time
 from web3 import Web3, HTTPProvider
 import contract_abi
 
-contract_address     = Web3.toChecksumAddress('0x9ac6f75bd5d591b300631b556ea3a70610d38cc7')
+contract_address     = Web3.toChecksumAddress('') #put your contact address here
 
 input(wallet_private_key)
 input(wallet_address)
